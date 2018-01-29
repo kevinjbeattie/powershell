@@ -1,5 +1,5 @@
 ###########################################
-# Jave JDK Version Checks
+# Java JDK Version Checks
 # Authored by Kevin Beattie
 # Purpose: Outputs to STDOUT the Version of Java JSK installed, if found
 
